@@ -1,6 +1,6 @@
 # FillBoard25
  
-   - [ ] Setup board config on STM32
+   - [X] Setup board config on STM32
    - [ ] Setup GPIO pins for valves, H-Bridge, load cell, igniter, etc.
 
    - [ ] Draw a Flowchart to understand components present and I/O behavior
