@@ -8,4 +8,3 @@
    - [ ] Learn more about RTOS
    - [ ] Draft what RTOS tasks are needed
    - [ ] Write RTOS task, ex. listening to radio
- 
